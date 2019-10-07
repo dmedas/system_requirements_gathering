@@ -4,3 +4,5 @@ How quickly does district need attendane report?
 Can information about students be retrieved from database on demand?
 How quickly does the school need to know a student was not present for a class?
 What is the process for excused absences?
+How many students are there per school?
+How many teachers are there per school?
