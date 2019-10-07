@@ -1,5 +1,5 @@
 Can we limit the amount of active users on the wireless network?
-
+ - Possibly require online attendance taken at different times depending on the teacher?
 Are desktops connected wirelessly or wired?
  - How many tablets are in use?
 How quickly does district need attendance report?
@@ -11,4 +11,6 @@ How quickly does the school need to know a student was not present for a class?
 What is the process for excused absences?
  - Who is in charge of inputting the excuse?
 How many students are there per school?
+ - Also how many students have devices that are connected to the wireless network?
 How many teachers are there per school?
+ - At what time does each teacher take attendance and is it wireless?
