@@ -1,0 +1,8 @@
+wamaue 
+Question: 
+
+- How many students are in each grade/the whole school?
+
+- How many students have access to the wireless? Is it based on grade?
+
+- Is it based on absences per period or per day?
