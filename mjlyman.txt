@@ -1,0 +1,16 @@
+mjlyman
+
+Questions:
+
+How many teachers take attendance at a time?
+
+Are the teacher's desktops on wireless?
+
+Who will need to have access to the reports?
+
+Where will the data be stored?
+
+Will the MIA notices be automated?
+
+What kind of security is needed for the system?
+
