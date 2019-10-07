@@ -1,0 +1,6 @@
+Can we limit the amount of active users on the wireless network?
+Are desktops connected wirelessly or wired?
+How quickly does district need attendane report?
+Can information about students be retrieved from database on demand?
+How quickly does the school need to know a student was not present for a class?
+What is the process for excused absences?
