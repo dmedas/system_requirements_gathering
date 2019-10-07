@@ -1,8 +1,14 @@
 Can we limit the amount of active users on the wireless network?
+
 Are desktops connected wirelessly or wired?
-How quickly does district need attendane report?
+ - How many tablets are in use?
+How quickly does district need attendance report?
+ - When should the reports be generated? End of day?
 Can information about students be retrieved from database on demand?
+ - What kind of security would need to be in place to protect the information?
 How quickly does the school need to know a student was not present for a class?
+ - What is the procedure to follow if a student is not present?
 What is the process for excused absences?
+ - Who is in charge of inputting the excuse?
 How many students are there per school?
 How many teachers are there per school?
