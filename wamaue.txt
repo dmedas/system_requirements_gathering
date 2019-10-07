@@ -2,7 +2,10 @@ wamaue
 Question: 
 
 - How many students are in each grade/the whole school?
-
+	How many teachers?
+	How many students per classroom?
 - How many students have access to the wireless? Is it based on grade?
-
+	Can we create separate network for teacher/staff use only?
 - Is it based on absences per period or per day?
+	How many absences in a day counts as MIA?
+	
