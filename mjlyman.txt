@@ -2,15 +2,15 @@ mjlyman
 
 Questions:
 
-How many teachers take attendance at a time?
-
+How many teachers take attendance at a time?	
 Are the teacher's desktops on wireless?
-
 Who will need to have access to the reports?
-
+	How many people?
+	Are they in the school, district, etc?
 Where will the data be stored?
-
+	Stored temporarily locally in school, then moved to district database?
 Will the MIA notices be automated?
-
+	How immediate do they need to be?
+	Should they be emails, texts, customizable?
 What kind of security is needed for the system?
-
+	Who will be responsible for system security maintenance (granting permissions, etc)?
